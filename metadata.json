@@ -1,0 +1,5 @@
+{
+  "name": "Epidemiology Study Simulator",
+  "description": "An interactive app to teach students how epidemiological study design choices affect validity, bias, and precision. Users can design a study, simulate data, and visualize the impact of confounding, misclassification, and random error.",
+  "requestFramePermissions": []
+}
